@@ -1,0 +1,11 @@
+body{
+    background-color: #ffdf91;
+}
+
+.images{
+    margin-top:10px;
+}
+
+.test_img{
+    width:200px;height:150px;margin-left:10px;margin-bottom:10px;border:2px solid red;
+}
